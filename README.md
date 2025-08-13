@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI-Ml**
 
-- 💬 Ask me about **Flutter, Firebase, AWS, React, React, Node.js, HTML ,CSS, JS**
+- 💬 Ask me about **Flutter, Firebase, AWS, React, React, Node.js, HTML ,CSS, JS,Node.js,Express**
 
 - 📫 How to reach me **aayushkanungo02@gmail.com**
 
